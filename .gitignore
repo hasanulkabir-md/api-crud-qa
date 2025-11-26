@@ -1,0 +1,44 @@
+# ============================
+# PYTHON ENVIRONMENT
+# ============================
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+
+# ============================
+# PLAYWRIGHT BROWSERS & CACHE
+# ============================
+**/ms-playwright/
+**/playwright/.cache/
+**/playwright/driver/
+**/playwright/install/
+**/*.zip
+
+# ============================
+# NODE / REACT (if added later)
+# ============================
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# ============================
+# LOGS
+# ============================
+*.log
+
+# ============================
+# OS SYSTEM FILES
+# ============================
+.DS_Store
+Thumbs.db
+
+# ============================
+# GIT / IDE CONFIG
+# ============================
+.vscode/
+.idea/
+*.swp
