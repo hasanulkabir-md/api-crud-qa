@@ -2,10 +2,6 @@
 
 A complete end-to-end QA Engineering project demonstrating **REST API testing**, **automation**, **database validation**, **negative testing**, and **CI/CD integration** using **FastAPI, pytest, requests, and SQLite**.
 
-<p align="center">
-  <img src="screenshots/endpoint_testing.png" width="600">
-</p>
-
 ---
 
 # 🧾 **Overview**
@@ -259,4 +255,5 @@ Runs automatically on every push:
 **Md Hasanul Kabir**
 QA Engineer — API Testing | Automation | Python | Linux
 GitHub: [https://github.com/hasanulkabir-md](https://github.com/hasanulkabir-md)
+
 
